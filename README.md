@@ -26,7 +26,7 @@
   <img align="center" alt="PostgreeSQL" height="50" width="60" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
 </div>
 
-<h2> My Social Media #️⃣</h2>
+<h2> My social media #️⃣</h2>
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-403c3c?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/guilherme-yuri-2203a1119/)
