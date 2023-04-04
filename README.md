@@ -31,6 +31,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-403c3c?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/guilherme-yuri-2203a1119/)
 [![Instagram](https://img.shields.io/badge/Instagram-403c3c?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/yuriguila/)
-[![Gmail](https://img.shields.io/badge/Gmail-403c3c?style=for-the-badge&logo=gmail&logoColor=D14836)](guilhermeyla@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-403c3c?style=for-the-badge&logo=gmail&logoColor=D14836)](malito:guilhermeyla@gmail.com)
 
 <div style="display: inline_block"><br/>
