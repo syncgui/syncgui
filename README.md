@@ -28,9 +28,9 @@
 
 <h2> My social media #️⃣</h2>
 </div>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-403c3c?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/guilherme-yuri-2203a1119/)
-[![Instagram](https://img.shields.io/badge/Instagram-403c3c?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/yuriguila/)
-[![Gmail](https://img.shields.io/badge/Gmail-403c3c?style=for-the-badge&logo=gmail&logoColor=D14836)](malito:guilhermeyla@gmail.com)
+  
+  <a href="https://www.linkedin.com/in/guilherme-yuri-2203a1119/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-403c3c?style=for-the-badge&logo=linkedin&logoColor=0077B5" target="_blank"></a> 
+  <a href = "malito:guilhermeyla@gmail.com"><img src="https://img.shields.io/badge/Gmail-403c3c?style=for-the-badge&logo=gmail&logoColor=D14836" target="_blank"></a>
+  <a href = "https://www.instagram.com/yuriguila/"><img src="https://img.shields.io/badge/Instagram-403c3c?style=for-the-badge&logo=instagram&logoColor=E4405F" target="_blank"></a>
 
 <div style="display: inline_block"><br/>
