@@ -9,7 +9,7 @@
 
 <div style="display: inline_block" align = "center">
   <a href="https://github.com/syncgui">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=syncgui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>      
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=syncgui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>      
 </div>
 <div style = "display: inline_block" align="center">
 <a href="https://git.io/streak-stats">
